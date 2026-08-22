@@ -78,7 +78,7 @@ The generated menu is stored in:
 ```text
 next_day_menu.txt
 
-🤖 4. Local LLM
+**## 🤖 4. Local LLM**
 
 The project uses a Local Large Language Model through Ollama.
 
@@ -86,7 +86,7 @@ The LLM is used for text-based menu generation and AI-assisted cafeteria plannin
 
 No OpenAI, Gemini, Claude, or other cloud-based LLM APIs are used.
 
-🎨 5. Local Image Generation
+**## 🎨 5. Local Image Generation**
 
 The project uses Stable Diffusion as the local image generation model.
 
@@ -96,7 +96,7 @@ Generated images are stored locally in:
 
 images/cafeteria_menu.png
 
-🖥️ 6. Streamlit Dashboard
+**## 🖥️ 6. Streamlit Dashboard**
 
 The Streamlit application provides a unified dashboard showing:
 
