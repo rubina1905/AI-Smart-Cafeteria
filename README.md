@@ -209,9 +209,9 @@ The user can:
 The overall architecture of the AI Smart Cafeteria system is:
 
 ```text
-                         🍽️ AI SMART CAFETERIA
-                                  │
-                                  ▼
+                      🍽️ AI SMART CAFETERIA
+                               │
+                               ▼
                   ┌──────────────────────────┐
                   │     CAFETERIA DATA       │
                   │                          │
