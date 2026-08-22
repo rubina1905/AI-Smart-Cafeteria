@@ -95,6 +95,7 @@ The image generation pipeline creates a visual representation of the next-day ca
 Generated images are stored locally in:
 
 images/cafeteria_menu.png
+
 🖥️ 6. Streamlit Dashboard
 
 The Streamlit application provides a unified dashboard showing:
@@ -107,6 +108,7 @@ Food waste comparison
 Waste reduction
 Next-day menu
 AI-generated menu image
+
 🎨 7. Gradio Image Generation Interface
 
 Gradio provides an interactive interface for generating the cafeteria menu visualization using Stable Diffusion.
@@ -117,7 +119,7 @@ The generated image is automatically saved so that it can be displayed in the St
 
 The overall workflow is:
 
-                                       🍽️ AI SMART CAFETERIA
+                      🍽️ AI SMART CAFETERIA
                                   │
                                   ▼
                  ┌─────────────────────────────┐
