@@ -692,7 +692,6 @@ Recommended screenshots include:
 3. Food waste analysis
 4. Generated next-day menu
 5. Gradio interface
-6. Stable Diffusion generated image
 
 ---
 
