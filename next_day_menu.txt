@@ -1,5 +1,5 @@
-BREAKFAST: Poha-Jalebi Combo (Puffed Rice Flakes with Jalebi-Style Fried Dough)
+BREAKFAST: Vegetable Poha Upma
 
-LUNCH: Chana Masala with Brown Rice and Naan Bread
+LUNCH: Chana Masala with Brown Rice and Naan
 
-DINNER: Chicken Tikka with Basmati Rice and Mixed Vegetables
+DINNER: Chicken Tikka with Basmati Rice and Mixed Vegetable Curry
