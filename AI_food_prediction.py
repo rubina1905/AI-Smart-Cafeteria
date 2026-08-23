@@ -490,39 +490,3 @@ print("==============================")
 print(special_menu)
 
 print("\nMenu saved successfully.")
-
-
-# ==========================================================
-# STEP 13 : CREATE COMFYUI IMAGE PROMPT
-# ==========================================================
-
-image_prompt = f"""
-Create a realistic menu visualization for a university cafeteria.
-
-Tomorrow's menu:
-
-{special_menu}
-
-Show the THREE actual meals from this menu:
-breakfast, lunch and dinner.
-
-Create a clear three-panel food presentation:
-breakfast on the left,
-lunch in the center,
-dinner on the right.
-
-Each panel should clearly show the corresponding dish.
-
-Modern Indian university cafeteria,
-realistic food photography,
-clean presentation,
-professional,
-appetizing,
-no random dishes,
-no extra food items.
-"""
-
-print("\n==============================")
-print("COMFYUI IMAGE PROMPT")
-print("==============================")
-print(image_prompt)
